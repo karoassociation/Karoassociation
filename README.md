@@ -1,3 +1,3 @@
 Hello World
 
-![](Karo (1).png)
+![](Karo (1\).png)
